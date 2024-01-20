@@ -66,7 +66,7 @@ function reiniciarJogo() {
 }
 
 // ih karai
-
+// testando commit dnv
 
 
 
